@@ -1,2 +1,6 @@
 editing in feature
+<<<<<<< HEAD
 local machine line
+=======
+
+>>>>>>> 894406f0d619535d720457f0834974866b83e884
